@@ -1,5 +1,6 @@
-### Hi there 👋 My name is Aram Gamal
+Hi there 👋 My name is Aram Gamal
 
+Highly motivated student in faculty of computer and artificial intelligence at cairo university. Eager to learn, doing my best to be able to have a career in this field where i can improve my skills, learn new competences and gain experience.
 <!--
 **AramGamal/AramGamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
